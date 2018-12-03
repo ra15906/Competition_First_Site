@@ -1,0 +1,78 @@
+header {
+  text-align: center;
+}
+
+h1 {
+  color:#0e2f44;
+  font-family: 'Oswald', sans-serif;
+  font-size: 72px;
+  text-align: center;
+margin: 0px;
+}
+
+p1 {
+  font-size: 30px;
+  font-family: 'Overpass Mono', monospace;
+  text-align: center;
+  padding-left:260px;
+}
+
+input {
+        border:10px;
+        padding: 10px;
+        font-size: 15px;
+        background:"grey"
+        placeholder:"black";
+      }
+
+body{
+  font-family: 'Oswald', sans-serif;
+  text-align: justify;
+}
+
+
+#picture1 {
+  height: 200px;
+  width: auto;
+  image-orientation: center;
+  Margin: 40px 0px 0px 0px;
+  border-radius: 50%;
+  border-width: medium;
+  border-style: solid;
+  border-color: white;
+  }
+
+ul.menu {
+                  padding: 2px;
+                  background: white;
+                 margin-left: 350px;
+                  margin-right: 350px;
+                  border-width:1px;
+border-style:solid;
+border-color:black;
+                                }
+ul.menu li {
+                      display: inline;
+                      padding: 10px 0px 10px 0px;
+                      margin: 40px;
+                                          }
+ul.menu a {
+                                          color: #ea8d9d;
+                                        font-size: 40px;
+                                        text-decoration: none;
+                                        }
+
+.rep {
+  text-align: center;
+  background-color: white;
+  margin: 0px 500px 0px 500px;
+  }
+
+.Laboratory {
+    background-color: white;
+  margin: 0px 200px 0px 200px;
+}
+.Volunteering {
+    background-color: white;
+  margin: 0px 200px 0px 200px;
+}
